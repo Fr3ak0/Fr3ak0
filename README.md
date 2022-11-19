@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Volkan Aykut</h1>
 <h3 align="center">I am a Software Engineering Student.</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611c86d0640d3bcd4eb771dc4b1927007e5196b5ad0&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e478rih5mfs6z3rifqt19a9f9b3hzng2lf3xb1v2vzb&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr3ak0&label=Profile%20views&color=0e75b6&style=flat" alt="fr3ak0" /> </p>
 
