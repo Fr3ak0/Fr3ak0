@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **python and C projects**
 
-- 🌱 I’m currently learning **C#,Unity,HTML-CSS**
+- 🌱 I’m currently learning **C#,HTML-CSS**
 
 - 💬 Ask me about **whatever you want.**
 
