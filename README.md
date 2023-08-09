@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/volkan aykut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="volkan aykut" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/volkan-aykut-2b12a7249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="volkan aykut" height="30" width="40" /></a>
 <a href="https://instagram.com/volkanaykt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="volkanaykt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/volkan aykut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="volkan aykut" height="30" width="40" /></a>
 </p>
